@@ -1,0 +1,18 @@
+#wrapper{
+    width: 1200px;
+    height: auto;
+    padding: 10px
+}
+.pokemon{
+    display: inline-block;
+    width: 800px;
+    margin-right: 50px;
+}
+.pokedex{
+    display: inline-block;
+    width: 300px;
+    height: 700px;
+    border: solid red 20px;
+    vertical-align: top;
+    position: fixed;
+}
