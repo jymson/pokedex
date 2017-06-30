@@ -1,7 +1,6 @@
 var pokemonImgArr =[];
 var api = 'http://pokeapi.co/api/v2/pokemon/';
 var imgApi = 'http://pokeapi.co/media/img/';
-var singlePokemon = 'http://pokeapi.co/api/v2/pokemon'
 
 $(document).ready(function(){
 
